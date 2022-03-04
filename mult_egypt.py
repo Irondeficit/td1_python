@@ -26,4 +26,4 @@ def __main__():
     print("Resultat:", result)
 
 
-__main__()
+__main__()  
