@@ -11,4 +11,4 @@ def sycarius_conjecture(nb):
 
 start_number = int(input("Donner la debut de la liste: "))
 
-print(sycarius_conjecture(start_number))
+print(len(sycarius_conjecture(start_number)))
